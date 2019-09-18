@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class ArraysOddNumber {
     public static void main(String[] args) {
-        int numbers[]={39, 87,91,123,876,};
+        int numbers[]={39, 87,91,123,876,567,12,98};
         Arrays.sort(numbers);
         for(int i:numbers){
             System.out.println(i);
