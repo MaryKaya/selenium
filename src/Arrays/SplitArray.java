@@ -18,7 +18,7 @@ public class SplitArray {
         System.out.println(Arrays.toString(splitArray2));
 
 
-        String a = "ali";
+        String a = "Ali";
         String sub = a.substring(a.length()-2,a.length());
         System.out.println(sub);
 
